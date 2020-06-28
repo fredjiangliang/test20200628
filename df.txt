@@ -1,0 +1,14 @@
+Filesystem      Size  Used Avail Use% Mounted on
+udev            119G  4.0K  119G   1% /dev
+tmpfs            24G  1.9M   24G   1% /run
+/dev/sda1       230G  208G  9.7G  96% /
+none            4.0K     0  4.0K   0% /sys/fs/cgroup
+none            5.0M     0  5.0M   0% /run/lock
+none            119G   26M  119G   1% /run/shm
+none            100M   32K  100M   1% /run/user
+/dev/sdc        7.3T  6.6T  344G  96% /home/fredjiang/EightT
+/dev/sdd        3.6T  3.3T  178G  95% /home/fredjiang/FourT2
+/dev/sde        7.3T  5.5T  1.5T  80% /home/fredjiang/EightT2
+/dev/sdb        917G  293G  578G  34% /home/fredjiang/OneTSSD
+/dev/sda6       3.7G  7.8M  3.4G   1% /tmp
+/dev/sdf1       9.1T  6.6T  2.1T  76% /home/fredjiang/EightT3
